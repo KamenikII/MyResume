@@ -21,6 +21,7 @@ A novice Java developer, interested in developing in software development. I str
 - To build the output, I used StringBuilder to speed up the application. 
 - Used WritableRaster for image work and net.URL for interacting with images from the internet. 
 - **Technology stack: Java language, IntelliJ IDEA development environment, ImageIO, awt Bufferedimage.** <br/>
+<br/>
 ## PROGRAM "CONTACTS" 
 - To practice skills, I developed from scratch an application for managing contacts (Android platform).
 - Implemented the following features: - Create and delete contacts (full name and phone number). - Ability to create groups of contacts, for example, "family", "colleagues", "friends". - The function of searching for contacts by groups, names and phone. 
@@ -32,6 +33,7 @@ A novice Java developer, interested in developing in software development. I str
 **SUAI (university education)**
 - I am currently studying at the 2nd year of the university. 
 - Additionally passed Cisco certification: IT Essentials, CCNA R&S, CCNA <br/>
+<br/>
 ## **Chief technician** 08.2021 - 10.2021
 **Robotics festival "Точка сборки"**
 - I was responsible for teaching the event visitors the basics of programming microcontrollers in the works (the basics of Python, Scratch, mindstorms), answers to questions, assistance in solving practical tasks. <br/> 
@@ -58,17 +60,13 @@ I lead a healthy lifestyle, I do freediving, swimming. <br/>
 
 # EXTRA INFO
 ## Basic education
-|                                                 |      |
-|-------------------------------------------------|:----:|
-|**State University of Aerospace Instrumentation**| 2025 |
-|Automated control in technical systems using AI         |
+**State University of Aerospace Instrumentation** | 2025 
+Automated control in technical systems using AI 
 ## Additional education
-|                                                 |      |
-|-------------------------------------------------|:----:|
-|**Netolody**                                   |**2023**|
-|Android-developer from scratch                          |
-|**English Language School "Chicago"**          |**2022**|
-|Intermediate (B1)                                       |
+**Netolody** | 2023
+Android-developer from scratch
+**English Language School "Chicago"** | 2022
+Intermediate (B1)
 
 ## Languages
 - English - I can read professional literature, conduct business correspondence.
