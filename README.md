@@ -62,13 +62,13 @@ I lead a healthy lifestyle, I do freediving, swimming. <br/>
 
 # EXTRA INFO
 ## Basic education
-**State University of Aerospace Instrumentation** | 2025 
-Automated control in technical systems using AI
+**State University of Aerospace Instrumentation** | 2025 <br/>
+Automated control in technical systems using AI <br/>
 ## Additional education
-**Netolody** | 2023
-Android-developer from scratch
-**English Language School "Chicago"** | 2022
-Intermediate (B1)
+**Netolody** | 2023 <br/>
+Android-developer from scratch <br/>
+**English Language School "Chicago"** | 2022 <br/>
+Intermediate (B1) <br/>
 
 ## Languages
 - English - I can read professional literature, conduct business correspondence.
