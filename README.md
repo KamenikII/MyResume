@@ -32,7 +32,7 @@ A novice Java developer, interested in developing in software development. I str
 # PRACTICAL EXPERIENCE
 ## **Student** 09.2021 - nowdays
 **SUAI (university education)**
-- I am currently studying at the 2nd year of the university. 
+- At the moment I am studying full-time in the 2nd year and in absentia in the 1st year of the university.
 - Additionally passed Cisco certification: IT Essentials, CCNA R&S, CCNA <br/>
 <br/>
 
@@ -62,6 +62,8 @@ I lead a healthy lifestyle, I do freediving, swimming. <br/>
 
 # EXTRA INFO
 ## Basic education
+**State University of Aerospace Instrumentation** | 2025 <br/>
+Automated control in technical systems using AI <br/>
 **State University of Aerospace Instrumentation** | 2025 <br/>
 Automated control in technical systems using AI <br/>
 ## Additional education
